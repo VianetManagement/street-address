@@ -10,7 +10,7 @@ StreetAddress::US version 2+ is designed to work with ruby 2+.  It may work with
 ## Gemfile Installation
 
 ```ruby
-    gem 'street-address', git: "https://github.com/VianetManagement/street-address.git"
+    gem 'street_address', git: "https://github.com/VianetManagement/street-address.git"
 ```
 
 ## Basic Usage
